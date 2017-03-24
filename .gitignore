@@ -1,0 +1,8 @@
+*.suo
+/src/Sitecore.ControllerLayout.Web/bin
+/src/Sitecore.ControllerLayout.Web/obj
+/src/packages
+/src/Sitecore.ControllerLayout/obj
+/src/Sitecore.ControllerLayout/bin
+/src/Sitecore.ControllerLayout/packages
+/src/.vs/config/applicationhost.config
